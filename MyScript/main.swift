@@ -1,3 +1,4 @@
+#!/usr/bin/swift
 //
 //  main.swift
 //  MyScript
@@ -9,4 +10,3 @@
 import Foundation
 
 print("Hello, World!")
-
