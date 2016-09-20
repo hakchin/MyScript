@@ -94,6 +94,7 @@
 				TargetAttributes = {
 					ABD52C7A1D90527C00592127 = {
 						CreatedOnToolsVersion = 8.0;
+						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -250,6 +251,7 @@
 				ABD52C841D90527C00592127 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

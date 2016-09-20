@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "0fb2e0f29dfb69458b4ec94f05042bab"
+build_time: [527663408, 409896000]
+inputs:
+  "/Users/sn2ro/OneDrive/git-c/swift/doit/MyScript/MyScript/main.swift": [527662624, 0]

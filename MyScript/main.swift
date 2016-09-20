@@ -1,4 +1,4 @@
-#!/usr/bin/swift
+#!/usr/local/bin/swiftshell
 //
 //  main.swift
 //  MyScript
@@ -7,6 +7,11 @@
 //  Copyright © 2016 Hakchin Kim. All rights reserved.
 //
 
-import Foundation
+// import Foundation
 
-print("Hello, World!")
+// print("Hello, World!")
+
+//dump(CommandLine.arguments)
+
+
+import SwiftShell
